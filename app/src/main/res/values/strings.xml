@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Tasks</string>
+    <string name="add_task">Add</string>
+</resources>
